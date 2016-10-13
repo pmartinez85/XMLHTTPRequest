@@ -14,7 +14,7 @@
 
     <script>
         var peticio = new XMLHttpRequest();
-        peticio.open("POST", "http://localhost/XMLHTTPRequest/formulari.html");
+        peticio.open("POST", "http://localhost:8000/formulari.html");
         peticio.onreadystatechange = function() {
             if (this.readyState == 4) {
                 if (this.status == 200) {
