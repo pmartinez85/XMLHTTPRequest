@@ -1,0 +1,12 @@
+{
+    "name": "pmartinez1085/xmlhttp-request",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Martinez",
+            "email": "pmartinez1085@gmail.com"
+        }
+    ],
+    "require": {}
+}
